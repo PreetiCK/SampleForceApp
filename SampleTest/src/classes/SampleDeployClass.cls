@@ -18,6 +18,6 @@ public class SampleDeployClass {
     
     public static void helloMethod() {
         System.debug('Hello World');
-        System.debug('Hello Mindtree');
+        //System.debug('Hello Mindtree');
     }
 }
